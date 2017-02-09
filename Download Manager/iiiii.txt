@@ -1,0 +1,14 @@
+http://seomiks.yolasite.com/resources/Holud%20Himu%20Kalo%20RAB.pdf
+http://www.just.edu.jo/~basel/algorithms/Algo%20Slides/algo_ch6%20_heap_sort.pdf
+
+170 menu add download
+204 menu sheduler
+238 history by default
+314 history by names
+470 history by size
+626 add from browser
+717 add pop up menu
+870 where to save
+1145 action browse()
+1240 action add()
+1286 sheudler function
